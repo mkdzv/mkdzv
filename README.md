@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mukhammad Kodzoev
+- 👋 Hi, I’m Mukhammad Kodzoev (@mkdzv)
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JavaScript & Java
 - 📫 Reach out to me through my email: Muhakod77@gmail.com
