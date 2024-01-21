@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mukhammad Kodzoev
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript, Python and Java
-- 📫 Reach out to me through my email: Muhakod77@gmail.com
+- 👓 Hi, I’m Mukhammad Kodzoev
+- 🖥 I’m interested in Software Development
+- 📓 I’m currently learning JavaScript, Python and Java
+- 💼 Reach out to me through my email: Muhakod77@gmail.com
 
 <!---
 mkdzv/mkdzv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
