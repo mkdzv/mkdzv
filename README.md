@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mukhammad Kodzoev (@mkdzv)
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning JavaScript & Java
+- 🌱 I’m currently learning JavaScript, Python and Java
 - 📫 Reach out to me through my email: Muhakod77@gmail.com
 
 <!---
