@@ -1,6 +1,6 @@
 - 👓 Hi, I’m Mukhammad Kodzoev
-- 👾 I’m interested in Software Engineering
-- 🖥 I’m currently learning JavaScript, Python, and Java
+- 👾 I’m interested in Software Engineering & Data Science
+- 🖥 I’m currently learning JavaScript & Python
 - 💼 Reach out to me through my email: Muhakod77@gmail.com
 
 <!---
