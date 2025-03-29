@@ -1,5 +1,5 @@
 # About Me
-j
+I'm a software engineer who is passionate about artificial intelligence and cyubersecurity and I develop startups for fun!
 
 
 # Tech Stack
