@@ -14,4 +14,6 @@ I'm a software engineer who is passionate about artificial intelligence and cyub
 
 [![](https://visitcount.itsvg.in/api?id=mkdzv&icon=0&color=12)](https://visitcount.itsvg.in)
 
+
+[![mkdzv](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
