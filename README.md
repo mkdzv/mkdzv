@@ -1,5 +1,5 @@
 # About Me:
-I do a bit of everything, websites, artificial intelligence, cybersecurity, data science, whatever's interesting.<br>Love hackathons, CTFs, LeetCode, TryHackMe, anything competitive or challenging.<br>Eventually wanna build startups, but for now just making cool stuff and learning.<br>If you want to collaborate on my projects, feel free, otherwise if there is anything else contact me <br>Bye now :)
+Hi, its mkdzv I do a bit of everything, websites, artificial intelligence, cybersecurity, data science, whatever's interesting.<br>Love hackathons, CTFs, LeetCode, TryHackMe, anything competitive or challenging.<br>Eventually wanna build startups, but for now just making cool stuff and learning.<br>If you want to collaborate on my projects, feel free, otherwise if there is anything else contact me <br>Bye now :)
 
 
 # Tech Stack:
