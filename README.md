@@ -1,5 +1,5 @@
 # About Me
-Profesional Principal Cybersecurity Overthinker & Part-Time Artificial Intelligence Panic Consultant. Director of Post-Incident Regret & Proactive Paranoia at The Firewall Whisperers Guild™ (a zero-trust, blockchain-adjacent, cyber-resilience-as-a-service collective). Former Lead Anxiety Engineer at APT AnxietyWare (specializing in imagining threats before they exist). Recovering SOC analyst who once mistook a coffee machine for a C2 server.
+Profesional Cybersecurity Overthinker & Part-Time Artificial Intelligence Panic Consultant. Director of Post-Incident Regret & Proactive Paranoia at The Firewall Whisperers Guild™ (a zero-trust, blockchain-adjacent, cyber-resilience-as-a-service collective). Former Lead Anxiety Engineer at APT AnxietyWare (specializing in imagining threats before they exist). Recovering SOC analyst who once mistook a coffee machine for a C2 server.
 
 # Currently Learning
 - Phishing my own coworkers
