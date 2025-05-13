@@ -4,7 +4,6 @@ Principal Cybersecurity Overthinker & Part-Time Artificial Intelligence Panic Co
 # Currently Learning
 - Phishing my own coworkers
 - Social engineering my own problems
-- AI-Driven Cyber-Horoscopes 
 - YAML-induced psychosis
 - ChatGPT for Incident Response
 - The Art of Blaming the Cloud
