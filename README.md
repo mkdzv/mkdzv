@@ -1,5 +1,7 @@
 # About Me:
-I do a bit of everything, frontend & backend development, artificial intelligence, cybersecurity, data science, whatever's interesting.<br>Love taking part in Hackathons, CTFs, LeetCode, TryHackMe, anything competitive or challenging.<br>Eventually plan to build startups, but for now just making cool stuff and learning.<br>If you want to collaborate on my projects, feel free, otherwise if there is anything else contact me <br>Bye now :)
+Proffesional Principal Cybersecurity Overthinker & Part-Time Artificial Intelligence Panic Consultant
+Director of Post-Incident Regret & Proactive Paranoia at The Firewall Whisperers Guild™ (a zero-trust, blockchain-adjacent, cyber-resilience-as-a-service collective). Former Lead Anxiety Engineer at APT AnxietyWare (specializing in imagining threats before they exist). Recovering SOC analyst who once mistook a coffee machine for a C2 server.
+
 
 
 # Tech Stack:
