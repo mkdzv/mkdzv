@@ -4,7 +4,7 @@ Principal Cybersecurity Overthinker & Part-Time Artificial Intelligence Panic Co
 # Currently Learning
 - Phishing everyone around me
 - Social engineering my own problems
-- - The Art of Blaming the Cloud
+- The Art of Blaming the Cloud
 - YAML-induced psychosis
 - ChatGPT for Incident Response
 - Passive-Aggressive Threat Hunting
