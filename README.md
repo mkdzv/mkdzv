@@ -2,8 +2,8 @@
 Principal Cybersecurity Overthinker & Part-Time Artificial Intelligence Panic Consultant. Director of Post-Incident Regret & Proactive Paranoia at The Firewall Freaky Guild. Former Lead Anxiety Engineer at APT AnxietyWare (specializing in imagining threats before they exist). Recovering SOC analyst who once mistook a coffee machine for a C2 server.
 
 # Currently Learning
-- Social engineering for my own problems & Phishing everyone around me
 - AI Powered Paranoia
+- Social engineering for my own problems & phishing everyone around me
 - The Art of Blaming the Cloud
 - Hacking a Hackathon
 - Ransomware Negotiation 101
