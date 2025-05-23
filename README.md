@@ -5,8 +5,6 @@ Principal Cybersecurity Overthinker & Part-Time Artificial Intelligence Panic Co
 - Phishing everyone around me
 - Social engineering my own problems
 - YAML-induced psychosis
-- ChatGPT for Incident Response
-- Passive-Aggressive Threat Hunting
 - Ransomware Negotiation 101
 - The Art of Blaming the Cloud
 
