@@ -1,5 +1,5 @@
 # About Me
-Cybersecurity Overthinker & Part-Time Artificial Intelligence Panic Consultant. Former Founder of The Firewall Freaky Guild. Principal Director of Post-Incident Regret & Proactive Paranoia at The Penetration Point. Former Lead Anxiety Engineer at APT AnxietyWare (specializing in imagining threats before they exist). Recovering SOC analyst who once mistook a coffee machine for a C2 server.
+Cybersecurity Overthinker & Part-Time Artificial Intelligence Panic Consultant. Former Founder of The Firewall Freaky Guild. Principal Director of Post-Incident Regret & Proactive Paranoia at The Penetration Point. Former Lead Anxiety Engineer at APT AnxietyWare (specializing in imagining threats before they exist). Recovering SOC analyst who once saw what he should not see.
 
 # Currently Learning
 - AI powered anecdotes 
