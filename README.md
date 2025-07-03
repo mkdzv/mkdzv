@@ -2,7 +2,7 @@
 Cybersecurity Overthinker & Part-Time Artificial Intelligence Panic Consultant. Former Founder of The Firewall Freaky Guild. Principal Director of Post-Incident Regret & Proactive Paranoia at The Penetration Point. Former Lead Anxiety Engineer at APT AnxietyWare (specializing in imagining threats before they exist). Recovering SOC analyst who once saw what one should not see.
 
 # Currently Learning
-- Social engineering for my own problems
+- Social engineering my own problems
 - The art of blaming the cloud
 - Hacking a hackathon
 
